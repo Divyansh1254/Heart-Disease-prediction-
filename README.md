@@ -152,12 +152,6 @@ The Logistic Regression classifier with tuned hyperparameters achieved the stron
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 - Dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease), originally collected from the Cleveland Clinic Foundation.
